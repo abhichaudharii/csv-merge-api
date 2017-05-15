@@ -1,0 +1,14 @@
+- :art: when improving the format/structure of the code
+- :racehorse: when improving performance
+- :pencil2: when writing docs
+- :bulb: new idea
+- :construction: work in progress
+- :new: when adding feature
+- :heavy_minus_sign: when removing feature
+- :speaker: when adding logging
+- :mute: when reducing logging
+- :bug: when fixing a bug
+- :white_check_mark: when adding tests
+- :lock: when dealing with security
+- :arrow_up: when upgrading dependencies
+- :arrow_down: when downgrading dependencies
