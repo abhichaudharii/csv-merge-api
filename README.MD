@@ -29,11 +29,12 @@ Submit a new file merge request.
 - #### **Content-Type:** ```multipart/form-data```
 
 - #### **Data Params:**
-    `daily.csv` *file*
-    `companies.csv` *file*
-    `start_date` *string* **MM/DD/YY (eg. 03/11/16)**
-    `end_date` *string* **MM/DD/YY (eg. 03/15/16)**
-    `n` *integer* **Skip Interval (>0)**
+
+    - `daily.csv` *file*
+    - `companies.csv` *file*
+    - `start_date` *string* **MM/DD/YY (eg. 03/11/16)**
+    - `end_date` *string* **MM/DD/YY (eg. 03/15/16)**
+    - `n` *integer* **Skip Interval (>0)**
 
 - #### **Responses:**
     * Success:
